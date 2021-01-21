@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="SSM_OA (1)" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87fd1087-5e15-48fe-9367-09dedfca4e1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\study file\Maven\repository" />
+        <option name="mavenHome" value="F:/study file/Maven" />
+        <option name="userSettingsFile" value="F:\study file\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lBUBvAjGLyLaB55Fhuz8t4o67R" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSM_OA_Mybatis_Plus/src/main/webapp/js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.18118246" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.xuyan.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xuyan.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\webapp\views\common" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\webapp\views" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\webapp\views\dept" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA\src\main\webapp" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\webapp\js" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\webapp\images" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\webapp\css" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\webapp\views\auth" />
+      <recent name="F:\The_Road_To_good\Project_Test\SSM_OA_Mybatis_Plus\src\main\resource\mapper" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xuyan.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.SSM_OA [tomcat7:run]">
+    <configuration name="BCryptDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM_OA (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuyan.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuyan.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.xuyan.service.impl.BCryptDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BCryptDemo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM_OA (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuyan.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuyan.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.xuyan.service.impl.BCryptDemo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpServiceImplTest.getAuthMenuTreeListByRoleId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM_OA (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuyan.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuyan.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.xuyan.service.impl.EmpServiceImplTest" />
+      <option name="METHOD_NAME" value="getAuthMenuTreeListByRoleId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpServiceImplTest.testGetEmpList2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SSM_OA (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuyan.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuyan.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.xuyan.service.impl.EmpServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetEmpList2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SSM_OA" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SSM_OA" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSM_OA [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../SSM_OA_Mybatis_Plus" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.EmpServiceImplTest.getAuthMenuTreeListByRoleId" />
+      <item itemvalue="JUnit.BCryptDemo.test" />
+      <item itemvalue="JUnit.BCryptDemo.test2" />
+      <item itemvalue="JUnit.EmpServiceImplTest.testGetEmpList2" />
+      <item itemvalue="Maven.SSM_OA [tomcat7:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.SSM_OA [tomcat7:run]" />
+        <item itemvalue="JUnit.EmpServiceImplTest.testGetEmpList2" />
+        <item itemvalue="JUnit.BCryptDemo.test" />
+        <item itemvalue="JUnit.BCryptDemo.test2" />
+        <item itemvalue="JUnit.EmpServiceImplTest.getAuthMenuTreeListByRoleId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87fd1087-5e15-48fe-9367-09dedfca4e1f" name="Default Changelist" comment="" />
+      <created>1607069845286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607069845286</updated>
+      <workItem from="1607069846696" duration="1755000" />
+      <workItem from="1607151719682" duration="6100000" />
+      <workItem from="1607238669559" duration="6716000" />
+      <workItem from="1607324495998" duration="5949000" />
+      <workItem from="1607407876188" duration="9171000" />
+      <workItem from="1607600502993" duration="6023000" />
+      <workItem from="1607692582297" duration="4510000" />
+      <workItem from="1607770921217" duration="11417000" />
+      <workItem from="1607944163948" duration="8324000" />
+      <workItem from="1608028794804" duration="9098000" />
+      <workItem from="1608118137182" duration="9082000" />
+      <workItem from="1608189093680" duration="4932000" />
+      <workItem from="1608201453365" duration="9515000" />
+      <workItem from="1608278018869" duration="5091000" />
+      <workItem from="1608294489694" duration="6247000" />
+      <workItem from="1608544878907" duration="722000" />
+      <workItem from="1608551735057" duration="8352000" />
+      <workItem from="1608635905609" duration="8715000" />
+      <workItem from="1608809608897" duration="286000" />
+      <workItem from="1609408921660" duration="14698000" />
+      <workItem from="1609471712906" duration="13774000" />
+      <workItem from="1609487124524" duration="1008000" />
+      <workItem from="1609501546477" duration="5213000" />
+      <workItem from="1609553097598" duration="11609000" />
+      <workItem from="1609583921183" duration="13669000" />
+      <workItem from="1609640777302" duration="15176000" />
+      <workItem from="1609673914653" duration="14666000" />
+      <workItem from="1609768308969" duration="5125000" />
+      <workItem from="1609853065962" duration="2683000" />
+      <workItem from="1610627440997" duration="3801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="SSM_OA" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="71" key="#Inspections" timestamp="1607606141182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1607606141182" />
+    <state x="722" y="75" key="#Intentions" timestamp="1609771626033">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="75" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1609771626033" />
+    <state x="722" y="75" key="#Project_Structure" timestamp="1609584650913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1609584650913" />
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608294795503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608294795503" />
+    <state x="1024" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1609682782386">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1024" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609682782386" />
+    <state x="895" y="192" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1609641576146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="895" y="192" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1609641576146" />
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1607070067713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1607070067713" />
+    <state x="470" y="319" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1607070279587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="319" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824@0.0.1536.824" timestamp="1607070279587" />
+    <state x="688" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1609658476167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="688" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1609658476167" />
+    <state x="944" y="275" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609420603368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="944" y="275" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1609420603368" />
+    <state x="973" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607157595658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="973" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1607157595658" />
+    <state x="896" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609487341867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="896" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609487341867" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1608203643169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1608203643169" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1608207954678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608207954678" />
+    <state width="734" height="162" key="GridCell.Tab.0.bottom" timestamp="1610631277934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="734" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610631277934" />
+    <state width="734" height="162" key="GridCell.Tab.0.center" timestamp="1610631277934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="734" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610631277934" />
+    <state width="734" height="162" key="GridCell.Tab.0.left" timestamp="1610631277934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="734" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610631277934" />
+    <state width="734" height="162" key="GridCell.Tab.0.right" timestamp="1610631277934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="734" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610631277934" />
+    <state width="686" height="249" key="GridCell.Tab.1.bottom" timestamp="1608039638650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="686" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608039638650" />
+    <state width="686" height="249" key="GridCell.Tab.1.center" timestamp="1608039638650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="686" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608039638650" />
+    <state width="686" height="249" key="GridCell.Tab.1.left" timestamp="1608039638650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="686" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608039638650" />
+    <state width="686" height="249" key="GridCell.Tab.1.right" timestamp="1608039638650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="686" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608039638650" />
+    <state x="408" y="110" key="NewModule_or_Project.wizard" timestamp="1608207961813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="110" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1608207961813" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1609853221375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609853221375" />
+    <state x="448" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1609673917330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1609673917330" />
+    <state x="990" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1607411705792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="990" y="115" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1607411705792" />
+    <state x="881" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609682359590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="881" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609682359590" />
+    <state x="72" y="95" key="spring file set editor" timestamp="1608211812814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="72" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1608211812814" />
+  </component>
+</project>

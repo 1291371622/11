@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.xuyan.dao.IEmpMapper">
+
+    <resultMap id="base_EmpResultMap" type="emp">
+        <!--        业务字段-->
+        <id column="id" property="id"></id>
+        <result column="username" property="username"/>
+        <result column="password" property="password"/>
+        <result column="sex" property="sex"/>
+        <result column="email" property="email"/>
+        <result column="birthday" property="birthday"/>
+        <result column="user_png" property="userpng"/>
+        <result column="mobile" property="mobile"/>
+        <result column="deptno" property="deptno"/>
+        <result column="orderby_index" property="orderbyIndex"/>
+        <result column="create_time" property="createTime"/>
+        <result column="update_time" property="updateTime"/>
+    </resultMap>
+
+    <resultMap id="empResultMap" type="emp" extends="base_EmpResultMap">
+
+<!--        对一 -->
+        <association property="createUser" javaType="emp">
+            <result column="create_username" property="username"/>
+        </association>
+        <association property="updateUser" javaType="emp">
+            <result column="update_username" property="username"/>
+        </association>
+
+    </resultMap>
+
+    <insert id="add">
+        insert into t_emp
+        (
+        username,
+        orderby_index,
+        password,
+        sex,
+        email,
+        birthday,
+        deptno,
+        user_png,
+        mobile,
+        create_user,
+        create_time
+        )
+        values (
+        #{username},
+        #{orderbyIndex},
+        #{password},
+        #{sex},
+        #{email},
+        #{birthday},
+        #{deptno},
+        #{userpng},
+        #{mobile},
+        #{createUser.id},
+        now()
+        )
+    </insert>
+
+    <update id="update">
+        update t_emp
+        <set>
+            <if test="username != null and username != ''">
+                username= #{username},
+            </if>
+            password = #{password},
+            sex = #{sex},
+            email = #{email},
+            birthday = #{birthday},
+            deptno = #{deptno},
+            user_png = #{userpng},
+            mobile = #{mobile},
+            update_user = #{updateUser.id},
+            update_time = now()
+        </set>
+
+        <where>
+            id = #{id}
+        </where>
+
+    </update>
+
+    <delete id="deleteById">
+
+        delete from t_emp
+        <where>
+            id = #{id}
+        </where>
+
+    </delete>
+
+    <select id="getList" resultMap="empResultMap">
+        select e.*,
+        (
+            select cu.username from t_emp cu
+        <where>
+            cu.id = e.create_user
+        </where>
+        ) as create_username
+        ,(
+        select up.username from t_emp up
+        <where>
+            up.id = e.update_user
+        </where>
+        ) as update_username
+        from t_emp e
+        order  by orderby_index desc
+    </select>
+
+    <select id="selectById" resultMap="base_EmpResultMap">
+        select * from t_emp
+        <where>
+            id = #{id}
+        </where>
+    </select>
+
+    <delete id="batchDel">
+        delete  from t_emp where id in
+        <foreach collection="array" open="(" close=")" item="id" separator=",">
+            #{id}
+        </foreach>
+    </delete>
+</mapper>
